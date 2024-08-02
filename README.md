@@ -5,4 +5,4 @@ In the case where no file path is specified, the bot automatically pushes a read
 ## Applications
 
 - Can be used to slowly commit the files of a project.
-- Can be used to maintain GitHub streak
+- Can be used to maintain GitHub streak.
